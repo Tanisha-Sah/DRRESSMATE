@@ -2,4 +2,4 @@ venv/
 __pycache__/
 *.pyc
 Backend/data/*.npy
-Backend/image/
+touch Backend/image/.keep
